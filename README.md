@@ -23,7 +23,7 @@ I file che ho modificato sono:
 In più trovi il dump del mio database locale nella root del progetto.
 
 ----------
-09/12/2013 03:40
+09/12/2013 10:05
 
 Ammazza fino alle 03.40 O___O, complimenti! Sei un grande!
 
@@ -31,3 +31,4 @@ Esamino il tutto e vediamo un po che conclusioni riesco a tirare fuori... gli al
 
 Buon Riposo! :)
 
+P.S Appena ci sei dimmi che modifiche hai apportato... magari la prossima volta quando modifichiamo qualcosa e committiamo ci mettiamo dei segnaposto :)
