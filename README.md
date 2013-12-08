@@ -1,4 +1,3 @@
-
 ----------
 08/12/2013 03:40
 
@@ -22,3 +21,13 @@ I file che ho modificato sono:
 - application/views/templates
 
 In più trovi il dump del mio database locale nella root del progetto.
+
+----------
+09/12/2013 03:40
+
+Ammazza fino alle 03.40 O___O, complimenti! Sei un grande!
+
+Esamino il tutto e vediamo un po che conclusioni riesco a tirare fuori... gli altri li hai sentiti?
+
+Buon Riposo! :)
+
