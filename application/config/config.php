@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://127.0.0.1/~rum/CodeIgniter/';
+$config['base_url']	= 'http://localhost/~betti/someone/';
 
 /*
 |--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ $config['base_url']	= 'http://127.0.0.1/~rum/CodeIgniter/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
@@ -44,7 +44,7 @@ $config['index_page'] = 'index.php';
 | 'ORIG_PATH_INFO'	Uses the ORIG_PATH_INFO
 |
 */
-$config['uri_protocol']	= 'AUTO';
+$config['uri_protocol']	= 'REQUEST_URI';
 
 /*
 |--------------------------------------------------------------------------
@@ -83,6 +83,22 @@ $config['language']	= 'english';
 $config['charset'] = 'UTF-8';
 
 /*
+|--------------------------------------------------------------------------
+| Facebook appID and secret
+|--------------------------------------------------------------------------
+|
+| 
+| 
+|
+*/
+
+$config['appID']	= '258597407630105';
+$config['appSecret']	= '322f18f5d27a1416b86855a4c5f40deb';
+
+
+/*
+
+
 |--------------------------------------------------------------------------
 | Enable/Disable System Hooks
 |--------------------------------------------------------------------------
@@ -224,7 +240,7 @@ $config['cache_path'] = '';
 | MUST set an encryption key.  See the user guide for info.
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = '876453346ygtrf';
 
 /*
 |--------------------------------------------------------------------------

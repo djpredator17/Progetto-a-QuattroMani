@@ -39,8 +39,8 @@
 */
 
 $route['news'] = 'news';
-$route['fb'] = 'fb';
-$route['default_controller'] = 'fb';
+$route['sys_user'] = 'sys_user';
+$route['default_controller'] = 'user';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
