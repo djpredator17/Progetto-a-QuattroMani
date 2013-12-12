@@ -1,4 +1,22 @@
 ----------
+12/12/2013 23:00
+
+Ho fatto un po' di cose in questi giorni, ho setuppato il database (e aggiornato il dump che trovi nella root) e unito i due controller che avevo creato per il controllo del login (via facebook e via registrazione)
+Sto cercando di capire come fare a far funzionare il tutto senza /index.php/ nelle URL ma anche se modifico l'.htaccess mi dà errori 404 a manetta :/
+
+
+----------
+09/12/2013 10:05
+
+Ammazza fino alle 03.40 O___O, complimenti! Sei un grande!
+
+Esamino il tutto e vediamo un po che conclusioni riesco a tirare fuori... gli altri li hai sentiti?
+
+Buon Riposo! :)
+
+P.S Appena ci sei dimmi che modifiche hai apportato... magari la prossima volta quando modifichiamo qualcosa e committiamo ci mettiamo dei segnaposto :)
+
+----------
 08/12/2013 03:40
 
 Dopo una lunga notte ho concluso alcune cose interessanti.
@@ -22,13 +40,3 @@ I file che ho modificato sono:
 
 In più trovi il dump del mio database locale nella root del progetto.
 
-----------
-09/12/2013 10:05
-
-Ammazza fino alle 03.40 O___O, complimenti! Sei un grande!
-
-Esamino il tutto e vediamo un po che conclusioni riesco a tirare fuori... gli altri li hai sentiti?
-
-Buon Riposo! :)
-
-P.S Appena ci sei dimmi che modifiche hai apportato... magari la prossima volta quando modifichiamo qualcosa e committiamo ci mettiamo dei segnaposto :)
