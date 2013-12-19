@@ -1,4 +1,10 @@
 ----------
+19/12/2013 18:13
+Ciao, scusami se non mi sto facendo sentire solo adesso, ma ultimamente non ho avuto tempo per affrontare questa cosa... ma tu hai trovato altre persone disposte ad integrare con qualche idea magari più concreta per quanto riguarda la parte sia grafica che di progettazione del database?
+
+Saluti a presto.
+
+----------
 12/12/2013 23:00
 
 Ho fatto un po' di cose in questi giorni, ho setuppato il database (e aggiornato il dump che trovi nella root) e unito i due controller che avevo creato per il controllo del login (via facebook e via registrazione)
