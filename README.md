@@ -1,5 +1,6 @@
 ----------
 19/12/2013 18:13
+
 Ciao, scusami se non mi sto facendo sentire solo adesso, ma ultimamente non ho avuto tempo per affrontare questa cosa... ma tu hai trovato altre persone disposte ad integrare con qualche idea magari più concreta per quanto riguarda la parte sia grafica che di progettazione del database?
 
 Saluti a presto.
